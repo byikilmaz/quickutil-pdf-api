@@ -46,3 +46,4 @@ python app.py
 ## Integration
 
 Used by QuickUtil.app Firebase Functions for server-side PDF compression.
+# Force deploy Wed Jul  9 21:48:40 +03 2025
